@@ -1,0 +1,17 @@
+{
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/sponsor",
+      "destination": "/advertise"
+    },
+    {
+      "source": "/opencap",
+      "destination": "/captable"
+    },
+    {
+      "source": "/taillscale",
+      "destination": "/tailscale"
+    }
+  ]
+}
